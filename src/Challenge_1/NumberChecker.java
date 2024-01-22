@@ -1,3 +1,5 @@
+package Challenge_1;
+
 public class NumberChecker {
     public static void checkNumber(int number) {
         if (number % 2 == 0) {

@@ -1,3 +1,5 @@
+package Challenge_2;
+
 public class Calculator {
 
     public static int addNumbers (int num1, int num2) {

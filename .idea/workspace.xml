@@ -4,18 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e9b1b0c-5ad6-4cfe-a653-22747fcd9f95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberChecker.java" afterDir="false" />
+    <list default="true" id="9e9b1b0c-5ad6-4cfe-a653-22747fcd9f95" name="Changes" comment="Desafio 11 dias em Java">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_3/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_4/CountWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_5/MegaNumbersGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_6/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_7/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge_8/TodoList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Challenge_2/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Challenge_1/NumberChecker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +58,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Challenge_5" />
+      <recent name="Challenge_4" />
+      <recent name="Challenge_3" />
+      <recent name="Challenge_2" />
+      <recent name="Challenge_1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +80,18 @@
       <option name="presentableId" value="Default" />
       <updated>1705328123964</updated>
     </task>
+    <task id="LOCAL-00001" summary="Desafio 11 dias em Java">
+      <created>1705330658840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705330658840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Desafio 11 dias em Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio 11 dias em Java" />
   </component>
 </project>
